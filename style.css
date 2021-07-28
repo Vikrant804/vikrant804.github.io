@@ -1,0 +1,28 @@
+.no{
+    float: right;
+}
+.nav{
+    background-color: rgb(104, 121, 12);
+}
+#pic02{
+    height: 200px;
+}
+#full-img{
+height: 80vh;
+width: 100%;
+object-fit: cover;
+}
+#fourcards{
+    background-color: rgb(39, 39, 131);
+}
+.leaves{
+    background-image: url(./cos.jpg);
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+
+}
+/* body{
+padding-left: 0 !important;
+padding-right: 0 !important;
+} */
